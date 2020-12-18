@@ -1,2 +1,2 @@
-# Java_Itermediario
+# Java_Intermediário
 Java OO nível intermediário
